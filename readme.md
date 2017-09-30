@@ -1,0 +1,1 @@
+pod "SAMIMMapModule_Category"
